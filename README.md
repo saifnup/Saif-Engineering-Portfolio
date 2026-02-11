@@ -1,34 +1,31 @@
-# Saif-Engineering-Portfolio
-Aerospace &amp; Mechanical Engineering Projects
-# Pierre Arbaji - Aerospace & Mechanical Engineering Portfolio
+# Saif Qureshi - Aerospace & Mechanical Engineering Portfolio
 
-Welcome to my engineering portfolio! I'm a fourth-year Mechanical Engineering student at McGill University with a Minor in Aerospace Engineering, passionate about aerospace structural design, mechanical design, flight controls, and innovative engineering solutions.
+Welcome to my engineering portfolio! I’m a graduating Mechanical Engineering student at McGill University with experience in aerospace structural design, composites manufacturing, mechanical systems, and innovative engineering solutions.
 
 ---
 
 ## About Me
 
-**Aerospace Engineer | Team Leader | Problem Solver**
+**Aerospace Engineer | Problem Solver | Team Collaborator**
 
-Fourth-year polyglot Mechanical Engineering student specializing in aerospace structures and flight control systems. Currently leading teams of 50+ students while developing cutting-edge rocket technologies and gaining industry experience at Airbus. Passionate about mechanical design, structural optimization, control systems, and pushing the boundaries of aerospace engineering.
+Graduating Mechanical Engineering student with experience at Pratt & Whitney, Bombardier, and OffScript startup. Specializing in mechanical design, structural analysis, composites, and aerospace systems. Passionate about creating efficient engineering solutions, advancing manufacturing processes, and contributing to aerospace projects.
 
 ---
 
 ## Contact & Links
 
-- **Email:** pierre.arbaji@mail.mcgill.ca
-- **Phone:** 438-835-1116
-- **LinkedIn:** [Pierre Arbaji](https://www.linkedin.com/in/pierre-arbaji-273441258)
-- **Download CV:** [CV-ARBADJIPierre.pdf](assets/pdf/CV-ARBADJIPierre.pdf)
+- **Email:** muhammad.qureshi5@mail.mcgill.ca
+- **Phone:** 514-969-9413
+- **LinkedIn:** [Saif Qureshi](https://www.linkedin.com/in/msaifqureshi/)
+- **Download CV:** [Resume=SaifQureshiJan.pdf]
 
 ---
 
 ## Education
 
 **Bachelor of Engineering, Mechanical Engineering Co-Op** | McGill University  
-*September 2022 – April 2027*
-- **Minor:** Aerospace Engineering
-- **Focus Areas:** Mechanical design, structural analysis, aerospace projects
+*August 2022 – April 2026*
+- **Focus Areas:** Mechanical design, structural analysis, maintenance, aerospace projects
 
 ---
 
@@ -36,15 +33,15 @@ Fourth-year polyglot Mechanical Engineering student specializing in aerospace st
 
 | Category | Technologies & Tools |
 |----------|---------------------|
-| **CAD & Design** | Siemens NX, SolidWorks, AutoCAD, Fusion 360 |
+| **CAD & Design** | Siemens NX, SolidWorks, CATIA V5, AutoCAD, Fusion 360 |
 | **Analysis & Simulation** | FEA, CFD, Topology Optimization, Structural Analysis |
-| **Programming** | Python, MATLAB, C++, Numerical Methods |
-| **Aerospace** | Aerodynamics, Flight Controls, Composites Manufacturing |
+| **Programming** | Python, MATLAB, C++, C#, SQL, Sharepoint Framework |
+| **Aerospace** | Aerodynamics, Flight Controls, Composites Manufacturing, NCR Documentation, MRB |
 | **Data & Analytics** | Engineering Dashboards, KPI Tracking, Data Visualization |
 | **Manufacturing** | Additive Manufacturing, Composites Processing, CNC |
-| **Languages** | English, French, Portuguese, Spanish, Arabic (All Fluent) |
+| **Languages** | English, French (Both fluent)|
 
-**Specialized Coursework:** Machine Design, Product Design, Structural Optimization, Composites, Aerospace Structures, Thermodynamics, Heat Transfer, Fluid Mechanics, Turbomachinery, Propulsion Systems, System Dynamics, Control Systems, Materials Science
+**Specialized Coursework:** Advanced Manufacturing, Machine Element Design, Product Design, Structural Optimization, Composites, Aerospace Structures, Thermodynamics, Fluid Mechanics, Turbomachinery, Propulsion Systems, System Dynamics, Control Systems, Materials Science
 
 ---
 
