@@ -1,156 +1,177 @@
 # Saif-Engineering-Portfolio
 Aerospace &amp; Mechanical Engineering Projects
-Welcome to my engineering portfolio! I’m a graduating Mechanical Engineering student at McGill University with experience in aerospace structural design, composites manufacturing, mechanical systems, and innovative engineering solutions.
+# Pierre Arbaji - Aerospace & Mechanical Engineering Portfolio
 
-About Me
+Welcome to my engineering portfolio! I'm a fourth-year Mechanical Engineering student at McGill University with a Minor in Aerospace Engineering, passionate about aerospace structural design, mechanical design, flight controls, and innovative engineering solutions.
 
-Mechanical Engineer | Problem Solver | Team Collaborator
+---
 
-Graduating Mechanical Engineering student with experience at Pratt & Whitney, Bombardier, and OffScript startup. Specializing in mechanical design, structural analysis, composites, and aerospace systems. Passionate about creating efficient engineering solutions, advancing manufacturing processes, and contributing to aerospace projects.
+## About Me
 
-Contact & Links
+**Aerospace Engineer | Team Leader | Problem Solver**
 
-Email: muhammad.qureshi5@mail.mcgill.ca
+Fourth-year polyglot Mechanical Engineering student specializing in aerospace structures and flight control systems. Currently leading teams of 50+ students while developing cutting-edge rocket technologies and gaining industry experience at Airbus. Passionate about mechanical design, structural optimization, control systems, and pushing the boundaries of aerospace engineering.
 
-Phone: 514-969-9413
+---
 
-LinkedIn: Saif Qureshi
+## Contact & Links
 
-Download CV: (Will add later in /assets)
+- **Email:** pierre.arbaji@mail.mcgill.ca
+- **Phone:** 438-835-1116
+- **LinkedIn:** [Pierre Arbaji](https://www.linkedin.com/in/pierre-arbaji-273441258)
+- **Download CV:** [CV-ARBADJIPierre.pdf](assets/pdf/CV-ARBADJIPierre.pdf)
 
-Education
+---
 
-Bachelor of Engineering, Mechanical Engineering | McGill University
-August 2022 – April 2026
+## Education
 
-Focus Areas: Mechanical design, structural analysis, flight controls, aerospace projects
+**Bachelor of Engineering, Mechanical Engineering Co-Op** | McGill University  
+*September 2022 – April 2027*
+- **Minor:** Aerospace Engineering
+- **Focus Areas:** Mechanical design, structural analysis, aerospace projects
 
-Technical Skills
-Category	Technologies & Tools
-Design & Analysis Tools	SolidWorks, Siemens NX, CATIA V5, MATLAB, MasterCAM (CNC), Abaqus, Ansys Fluent, RAVEN (Composites), PowerBI, SAP
-Programming	Python, C#, C++, MATLAB, SQL, SharePoint Framework
-Engineering Expertise	FEA, CFD, Requirements Decomposition, Composites, NCR/MRB workflows, Tooling Design, GD&T, Lean Six Sigma, Process Optimization
-Languages	English, French, Arabic, Urdu, Hindi
+---
 
-Specialized Coursework: Advanced Manufacturing, Machine Design, Product Design, Structural Optimization, Composites, Aerospace Structures, Thermodynamics, Fluid Mechanics, Turbomachinery, Propulsion Systems, System Dynamics, Control Systems, Materials Science
+## Technical Skills
 
-Work Experience
+| Category | Technologies & Tools |
+|----------|---------------------|
+| **CAD & Design** | Siemens NX, SolidWorks, AutoCAD, Fusion 360 |
+| **Analysis & Simulation** | FEA, CFD, Topology Optimization, Structural Analysis |
+| **Programming** | Python, MATLAB, C++, Numerical Methods |
+| **Aerospace** | Aerodynamics, Flight Controls, Composites Manufacturing |
+| **Data & Analytics** | Engineering Dashboards, KPI Tracking, Data Visualization |
+| **Manufacturing** | Additive Manufacturing, Composites Processing, CNC |
+| **Languages** | English, French, Portuguese, Spanish, Arabic (All Fluent) |
 
-BOMBARDIER AEROSPACE – Advanced Structures Conceptual Design Intern
-May 2025 – Dec 2025
+**Specialized Coursework:** Machine Design, Product Design, Structural Optimization, Composites, Aerospace Structures, Thermodynamics, Heat Transfer, Fluid Mechanics, Turbomachinery, Propulsion Systems, System Dynamics, Control Systems, Materials Science
 
-Improved a composite materials mechanical test results database (C#, ASP.NET) used to store coupon data for engineering reference, enhancing data organization and documentation to facilitate material selection, quality control criteria development, and preliminary design value estimation for composite structures.
+---
 
-Developed and structured new communication sites to streamline knowledge capture, sharing and tool documentation for the engineering stress and design communities across the organization.
+## Professional Experience
 
-PRATT AND WHITNEY CANADA – Process Improvement Intern
-May 2023 – Aug 2023
+### Aerostructure Operational Support Interm | **Airbus**
+*September 2025 – December 2025*
 
-Integrated processes to facilitate business jet scheduled & unscheduled maintenance (engine overhaul, hot section inspections) by using Lean Six Sigma, PowerBI and Google Analytics data and other process improvement strategies.
+Leading cross-functional program management convergence initiative, orchestrating engineering data integration across six international manufacturing sites (Germany, Canada, France, UK, Spain, China). Architected comprehensive engineering dashboards that provide real-time visibility into aerostructure design performance and manufacturing efficiency.
 
-Directed changes in the Eagle Service Plan while coordinating with global departments & raised usage by 20%.
+• **Strategic KPI Development:** Defined and implemented performance metrics, enabling data-driven decision making for global aerospace supply chain management
 
-Analyzed 40% of line items in credit position of maintenance facilities & built solutions to improve their documentation.
+• **Process Innovation Leadership:** Developed improvement roadmaps for large-scale aerostructure integration processes, identifying operational efficiencies that enhance structural component delivery timelines
 
-LIGHTHOUSE META TECHNOLOGIES – Manufacturing Design Intern
-May 2024 – Aug 2024
+• **International Collaboration:** Coordinated technical requirements and design standards across multinational engineering teams, ensuring consistent structural integrity protocols and materials specifications throughout the global supply network
 
-Spearheaded manufacturing with 40+ suppliers ensuring MOQs and CPUs for designs aligned with requirements.
+• **Executive Reporting:** Delivered strategic insights to senior leadership on aerostructure program performance, structural design trends, and manufacturing optimization opportunities
 
-Optimized materials & production to give estimates for ~6000 designs on OffScript app from start to end user.
+*This role bridges my technical expertise with strategic program management capabilities, preparing me for senior positions in engineering leadership.*
 
-Performed 3D printing drawings and slicing for product designs, presenting cost & alignment reports to management.
+### Active Flight Controls Research Intern | **McGill EUS**
+*May 2025 – August 2025*
 
-MCGILL ROCKET TEAM – Composites Manufacturing & Testing Lead
-Sep 2022 – Jul 2024
+Independently initiated and led a comprehensive research internship focused on developing active flight control systems for small-scale rockets. Successfully secured $11,500 in research funding and delivered validated PID-based roll-control algorithms with functional prototype demonstration. Developed mathematical models for roll-axis dynamics and created hardware test systems for validation.
 
-Developed new PREPREG and Forged Carbon processes for high-quality composite parts by testing ideal curing cycles on RAVEN and prototyping CNC machined molds to improve part durability, reducing manufacturing time by 25%.
+**Research Report:** [Design, Modeling, and Testing of an Active Roll Control System for a Model Rocket Using Fin-Mounted Control Surfaces](assets/pdf/Design-Modeling-and-Testing-of-an-Active-Roll-Control-System-for-a-Model-Rocket-Using-Fin-Mounted-Control-Surfaces.pdf)
 
-Spearheaded production of fuselage and static & vibration tests and documented structural performance results.
+### Process Engineering Intern | **SWS Boards Technologies**
+*May 2024 – July 2024*
 
-Led a 20-member team performing CFD optimization & aerodynamic redesign (e.g., cone profile & fastener geometry).
+Led critical materials engineering initiative to resolve structural deformation issues in PTEX substrate manufacturing, directly impacting production quality and customer satisfaction for high-temperature industrial printing applications.
 
-MCGILL INSTITUTE FOR AEROSPACE ENGINEERING – President
-May 2024 – Aug 2024
+• **Materials Science Investigation:** Conducted comprehensive structural analysis of PTEX sheet deformation mechanisms during high-temperature sublimation printing processes, identifying thermal stress concentration patterns and material behavior under extreme operating conditions
 
-Led development of industry-sponsored technical programs and events with Airbus, Bombardier, and Pratt & Whitney.
+• **Experimental Design & Optimization:** Developed and executed systematic experimental protocols to evaluate substrate performance across varying thermal profiles, processing speeds, and material compositions, establishing robust testing methodologies for quality control
 
-Architected a Fly-By-Wire experimental challenge replicating scaled Airbus A220 flight conditions and a CFD-based Challenge with Ansys.
+• **Manufacturing Process Innovation:** Engineered optimized parameter sets for temperature control, substrate handling, and process timing, achieving 80% reduction in warping defects and establishing new industry benchmarks for thermal dimensional stability
 
-Portfolio Projects
+• **Cross-Functional Collaboration:** Partnered directly with equipment manufacturers to enhance substrate thermal management systems, providing technical specifications and performance requirements based on materials analysis findings
 
-Project 1: Double-Reduction, Double-Branch Auxiliary Transmission
+• **Technical Leadership:** Delivered comprehensive engineering reports to executive management detailing structural integrity improvements, cost-benefit analysis of process modifications, and long-term material performance enhancement strategies
 
-Course: MECH 393 Design 2 | Jan 2025 – Apr 2025
+• **Quality System Development:** Established standardized testing protocols and acceptance criteria for PTEX substrate quality assurance, ensuring consistent structural performance across production batches
 
-Description: Preliminary design reducing 15,000 rpm turbine output to 1,000 rpm propeller speed.
+• **Process Validation:** Implemented statistical process control methods to monitor and maintain optimized manufacturing parameters, reducing material waste by 45% and improving overall production efficiency
 
-Skills Highlighted: Gear train design (AGMA), shaft & bearing sizing, FEA, SolidWorks assembly
+*This experience demonstrated my capability to solve complex materials engineering challenges through systematic analysis and process optimization, directly applicable to aerospace materials development and advanced manufacturing processes.*
 
-Key Results: Full gearbox assembly designed to meet aerospace safety standards, 6-gear, 2-stage system
+---
 
-Status: Completed
+## Portfolio Projects
 
-Repository / Report: View Project Details
+> Explore detailed writeups, technical reports, and documentation for each of my engineering projects.
 
-Project 2: Aerostructures Optimization & Team Leadership
+### **Project 1: Polaris Flight - Custom 3-Axis Flight Control System**
+**Co-Founder & Mechanical Lead | September 2025 – Present**
 
-McGill Rocket Team – Aerostructures Subteam Lead | May 2025 – Present
+- **Description:** Co-founded research group developing complete rocket system with 3-axis PID flight controller using servo-actuated control surfaces
+- **Skills Highlighted:** Aerodynamics, Control Systems, CAD Modeling, FEA, System Integration
+- **Key Results:** Designed complete airframe optimized for aerodynamic efficiency, structural integrity, and control authority
+- **Status:** Transitioning from design to fabrication phase
+- **Repository:** [View Project Details](_projects/polaris-flight.md)
 
-Description: Developed new PREPREG process moving from wet layup by creating test molds, scaling to full size, and forged carbon nose tip using leftover carbon fiber. Performed topology optimization for structural components.
+---
 
-Skills Highlighted: Topology Optimization, FEA, Team Leadership, Composites Manufacturing, Advanced Manufacturing
+### **Project 2: Aerostructures Optimization & Team Leadership**
+**McGill Rocket Team - Aerostructures Subteam Lead | May 2025 – Present**
 
-Key Results: Achieved ~30% weight reduction while improving composite manufacturing process
+- **Description:** Leading 50-student team in aerospace structural component design and optimization using advanced topology optimization
+- **Skills Highlighted:** Topology Optimization, FEA, Team Leadership, Composites Manufacturing, Project Management
+- **Key Results:** Achieved 30% weight reduction while maintaining structural integrity using Siemens NX
+- **Status:** Ongoing leadership role with multiple concurrent projects
+- **Repository:** [View Project Details](_projects/aerostructures-leadership.md)
 
-Status: Ongoing leadership role with multiple concurrent projects
+---
 
-Repository / Report: View Project Details
+### **Project 3: Auxiliary Transmission Gearbox for Small Aircraft**
+**MECH 393 Design 2 Project | January 2025 – April 2025**
 
-Project 3: Arduino-Based Seed Dispersal System
+- **Description:** Preliminary design of double-branch, double-reduction gearbox transmitting 1,050 hp from turbine to propeller
+- **Skills Highlighted:** Gear Train Design (AGMA), Shaft & Bearing Sizing, Weight Optimization, SolidWorks Assembly
+- **Key Results:** Created 6-gear, 2-stage reduction system meeting 30,000h gear life and 10,000h bearing life standards
+- **Status:** Completed - 831 lb concept with full technical drawings
+- **Repository:** [View Project Details](_projects/aircraft-gearbox.md) | [Technical Report PDF](assets/pdf/Preliminary-Design-of-an-Auxiliary-Transmission-Box.pdf)
 
-Description: Rotating gumball-style mechanism for controlled seed release
+---
 
-Skills Highlighted: Arduino programming, mechanical design, system integration
+### **Project 4: Structural Bracket Design & FEA Validation**
+**MECH 321 Project | January 2025 – April 2025**
 
-Status: Completed prototype
+- **Description:** Laser-cut acrylic bracket optimized for 300 N stiffness at 0.7 mm deflection while minimizing weight
+- **Skills Highlighted:** Finite Element Analysis, Experimental Validation, Manufacturing Constraints, Acrylic Fabrication
+- **Key Results:** Achieved experimental load capacity of 633 N (double theoretical requirement) with 30% mass savings
+- **Status:** Completed with full design-test validation cycle
+- **Repository:** [View Project Details](_projects/structural-bracket.md) | [Technical Report PDF](assets/pdf/Design-and-Analysis-of-a-Structural-Bracket.pdf)
 
-Repository / Report: View Project Details
+---
 
-Project 4: Structural Bracket Design & FEA Validation
+### **Project 5: Motorcycle Safety Dashboard System**
+**MECH 292 Conceptual Design Project | January 2025 – March 2025**
 
-MECH 321 Project | Jan 2025 – Apr 2025
+- **Description:** Conceptual design of dashboard-mounted screen detecting road hazards in real-time with clear visual rider warnings
+- **Skills Highlighted:** Human-Factors Engineering, Sensor Integration, Safety Systems Design, Concept Evaluation
+- **Key Results:** Selected optimal concept through house-of-quality, morphological charts, and Pugh matrix analysis
+- **Status:** Completed concept stage with bill of materials and interface specifications
+- **Repository:** [View Project Details](_projects/motorcycle-dashboard.md) | [Design Report PDF](assets/pdf/Conceptual-design-report.pdf)
 
-Description: Laser-cut acrylic bracket optimized for 300 N stiffness at 0.7 mm deflection while minimizing weight
+---
 
-Skills Highlighted: Finite Element Analysis, Experimental Validation, Manufacturing Constraints, Acrylic Fabrication
+## Leadership & Team Experience
 
-Key Results: Achieved experimental load capacity of 633 N (double theoretical requirement) with 30% mass savings
+**Aerostructures Subteam Lead** | McGill Rocket Team | *May 2025 – Present*
+- Leading team of ~50 students across multiple aerospace projects
+- Managing composites manufacturing, structural design, and aerodynamics initiatives
+- Coordinating with sponsors and maintaining industry partnerships
 
-Status: Completed with full design-test validation cycle
+**Aerostructures Project Lead** | McGill Rocket Team | *September 2023 – April 2025*
+- Directed 10-student team in aerospace structural component design
+- Led CAD and FEA analysis ensuring reliability under extreme forces
 
-Repository / Report: View Project Details
+---
 
-(Add more projects as needed — each with description, skills, results, and links.)
+## Portfolio Development
 
-Leadership & Team Experience
+This portfolio showcases my journey from mechanical engineering fundamentals to specialized aerospace applications and entrepreneurship. Each project demonstrates progression in technical complexity, leadership responsibility, and industry relevance. 
 
-President — McGill Institute for Aerospace Engineering (MIAE)
-Led event organization with aerospace companies (Bombardier, P&WC, Airbus) to connect 200+ students with professionals through workshops and networking panels.
+Built using modern web technologies for optimal performance and accessibility. Contributions and collaboration opportunities welcome!
 
-Engineering Senator — McGill Senate
-Represented the Engineering Faculty in McGill’s governing body; managed $450K budget allocation and improved student project funding oversight.
-
-Student Ambassador — International Development & Relief Foundation (IDRF)
-Organized fundraising and community engagement events raising over $150K for humanitarian projects.
-
-Aerostructures Lead — McGill Rocket Team
-Oversaw composite manufacturing and advanced structural component design projects (details in portfolio projects section).
-
-Portfolio Development
-
-This portfolio demonstrates my journey from mechanical engineering fundamentals to specialized aerospace applications. It highlights hands-on experience, leadership roles, and technical problem-solving.
-
-Built using GitHub Pages with a focus on accessibility and professional presentation. Contributions and collaboration opportunities welcome!
-
+---
 "Engineering is not just about solving problems — it’s about creating solutions that improve systems, processes, and people’s lives."
