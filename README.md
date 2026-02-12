@@ -6,8 +6,6 @@ Welcome to my engineering portfolio! I’m a graduating Mechanical Engineering s
 
 ## About Me
 
-**Aerospace Engineer | Problem Solver | Team Collaborator**
-
 Graduating Mechanical Engineering student with experience at Pratt & Whitney, Bombardier, and OffScript startup. Specializing in mechanical design, structural analysis, composites, and aerospace systems. Passionate about creating efficient engineering solutions, advancing manufacturing processes, and contributing to aerospace projects.
 
 ---
@@ -37,7 +35,7 @@ Graduating Mechanical Engineering student with experience at Pratt & Whitney, Bo
 | **Analysis & Simulation** | FEA, CFD, Topology Optimization, Structural Analysis |
 | **Programming** | Python, MATLAB, C++, C#, SQL, Sharepoint Framework |
 | **Aerospace** | Aerodynamics, Flight Controls, Composites Manufacturing, NCR Documentation, MRB |
-| **Data & Analytics** | Engineering Dashboards, KPI Tracking, Data Visualization |
+| **Data & Analytics** | PowerBi Dashboards, KPI Tracking, Data Visualization |
 | **Manufacturing** | Additive Manufacturing, Composites Processing, CNC |
 | **Languages** | English, French (Both fluent)|
 
@@ -47,48 +45,58 @@ Graduating Mechanical Engineering student with experience at Pratt & Whitney, Bo
 
 ## Professional Experience
 
-### Aerostructure Operational Support Interm | **Airbus**
-*September 2025 – December 2025*
+### Advanced Structures Conceptual Design Intern | **Bombardier**
+*May 2025 – December 2025*
 
-Leading cross-functional program management convergence initiative, orchestrating engineering data integration across six international manufacturing sites (Germany, Canada, France, UK, Spain, China). Architected comprehensive engineering dashboards that provide real-time visibility into aerostructure design performance and manufacturing efficiency.
+Bridged engineering, data systems, and program management by developing tools and communication platforms that improved access to test results, analysis tools, and structural engineering resources across aircraft programs.
 
-• **Strategic KPI Development:** Defined and implemented performance metrics, enabling data-driven decision making for global aerospace supply chain management
+• **Engineering Data Retrieval Innovation:** Developed a new methodology and tool framework to retrieve and organize test results by specific aircraft programs, significantly improving traceability and reducing time spent locating certification and validation data.
 
-• **Process Innovation Leadership:** Developed improvement roadmaps for large-scale aerostructure integration processes, identifying operational efficiencies that enhance structural component delivery timelines
+• **Structural & Simulation Tools Architecture:** Cataloged and standardized descriptions for a wide range of engineering tools including static structural analysis, composites, materials, F&DT (Fatigue & Damage Tolerance), and simulation platforms, enabling engineers to quickly identify the correct tools for their analysis needs.
 
-• **International Collaboration:** Coordinated technical requirements and design standards across multinational engineering teams, ensuring consistent structural integrity protocols and materials specifications throughout the global supply network
+• **Engineering Knowledge Management:** Designed structured communication sites to centralize engineering resources, reducing ambiguity and improving onboarding efficiency for new engineers and cross-functional collaborators.
 
-• **Executive Reporting:** Delivered strategic insights to senior leadership on aerostructure program performance, structural design trends, and manufacturing optimization opportunities
+• **Cross-Team Enablement & Training:** Led training sessions for design and stress engineering teams on how to effectively use new communication platforms and engineering tool repositories.
 
-*This role bridges my technical expertise with strategic program management capabilities, preparing me for senior positions in engineering leadership.*
+• **Executive-Level Communication:** Delivered platform walkthroughs and value demonstrations to upper management, aligning engineering infrastructure improvements with organizational productivity and decision-making objectives.
 
-### Active Flight Controls Research Intern | **McGill EUS**
+• **Process Standardization:** Improved consistency in how structural and analysis tools were documented and accessed, strengthening compliance, auditability, and engineering best practices across programs.
+
+
+### Process Improvement Intern | **Pratt & Whitney**
+*May 2023 – Aug 2023*
+
+Led data-driven continuous improvement initiatives supporting global aircraft maintenance programs, applying Lean Six Sigma methodologies to improve customer visibility, program utilization, and operational performance across international maintenance facilities.
+
+• **Lean Six Sigma Process Leadership:** Applied DMAIC methodology (Define, Measure, Analyze, Improve, Control) to diagnose and improve maintenance program usage, beginning with current-state dashboard analysis and customer satisfaction benchmarking.
+
+• **Customer Program Analytics & Competitive Benchmarking:** Conducted user surveys to quantify customer satisfaction and identify pain points in maintenance program visibility, translating qualitative feedback into actionable improvement opportunities. Performed industry benchmarking with competitors (e.g., Honeywell) to evaluate best practices in maintenance program structures and customer engagement models.
+
+• **Cross-Functional Process Improvement** Developed improvement recommendations with customer-facing and software teams, including targeted training initiatives and system enhancements to improve program transparency and usability.
+
+• **Enterprise Data & Financial Analysis (SAP)** Analyzed SAP data for Cash on Time (COT), credit balances, and customer transactions to identify unused credits, aging issues, and systemic documentation gaps.
+
+• **Customer Lifecycle & Fleet Status Assessment:** Evaluated aircraft operational status and customer activity to understand credit non-utilization drivers, including fleet changes, aircraft retirement, and operational constraints.
+
+• **Global Maintenance Network Exposure & Control:** Monitored improvements using dashboards and Google Analytics while supporting analysis across multiple global MRO facilities (including Brazil and other international sites) to track sustained performance gains.
+
+
+### Manufacturing Design Intern | **Lighthouse Meta Technologies Inc (Off/Script)**
 *May 2025 – August 2025*
 
-Independently initiated and led a comprehensive research internship focused on developing active flight control systems for small-scale rockets. Successfully secured $11,500 in research funding and delivered validated PID-based roll-control algorithms with functional prototype demonstration. Developed mathematical models for roll-axis dynamics and created hardware test systems for validation.
+Supported a community-driven product creation startup that transforms viral user-submitted ideas into manufactured consumer products. Off/Script managed end-to-end product development, international supplier sourcing and logistics, enabling creators to retain IP while scaling concepts into physical, market-ready products.
 
-**Research Report:** [Design, Modeling, and Testing of an Active Roll Control System for a Model Rocket Using Fin-Mounted Control Surfaces](assets/pdf/Design-Modeling-and-Testing-of-an-Active-Roll-Control-System-for-a-Model-Rocket-Using-Fin-Mounted-Control-Surfaces.pdf)
+**End-to-End Manufacturing Enablement:** Supported the transition of viral digital concepts into manufacturable physical products by preparing CAD-ready designs and defining manufacturing workflows for rapid prototyping and production.
 
-### Process Engineering Intern | **SWS Boards Technologies**
-*May 2024 – July 2024*
+**Supplier & Cost Optimization:** Coordinated with 40+ global suppliers to align minimum order quantities (MOQs), cost-per-unit (CPU), and manufacturing constraints with product and business requirements.
 
-Led critical materials engineering initiative to resolve structural deformation issues in PTEX substrate manufacturing, directly impacting production quality and customer satisfaction for high-temperature industrial printing applications.
+**Design for Manufacturing (DFM):** Performed CAD preparation, slicing, and manufacturability reviews to optimize designs for 3D printing and production, reducing iteration cycles and production risk.
 
-• **Materials Science Investigation:** Conducted comprehensive structural analysis of PTEX sheet deformation mechanisms during high-temperature sublimation printing processes, identifying thermal stress concentration patterns and material behavior under extreme operating conditions
+**Cost & Materials Optimization:** Evaluated materials and manufacturing methods across thousands of product concepts to reduce unit cost while maintaining functional and aesthetic requirements.
 
-• **Experimental Design & Optimization:** Developed and executed systematic experimental protocols to evaluate substrate performance across varying thermal profiles, processing speeds, and material compositions, establishing robust testing methodologies for quality control
+**Production Scaling & Quoting:** Generated production estimates and feasibility assessments for ~6,000 designs on the Off/Script platform, supporting rapid go/no-go decisions for product launches.
 
-• **Manufacturing Process Innovation:** Engineered optimized parameter sets for temperature control, substrate handling, and process timing, achieving 80% reduction in warping defects and establishing new industry benchmarks for thermal dimensional stability
-
-• **Cross-Functional Collaboration:** Partnered directly with equipment manufacturers to enhance substrate thermal management systems, providing technical specifications and performance requirements based on materials analysis findings
-
-• **Technical Leadership:** Delivered comprehensive engineering reports to executive management detailing structural integrity improvements, cost-benefit analysis of process modifications, and long-term material performance enhancement strategies
-
-• **Quality System Development:** Established standardized testing protocols and acceptance criteria for PTEX substrate quality assurance, ensuring consistent structural performance across production batches
-
-• **Process Validation:** Implemented statistical process control methods to monitor and maintain optimized manufacturing parameters, reducing material waste by 45% and improving overall production efficiency
-
-*This experience demonstrated my capability to solve complex materials engineering challenges through systematic analysis and process optimization, directly applicable to aerospace materials development and advanced manufacturing processes.*
+**Cross-Functional Product Delivery:** Worked closely with product, operations, and supplier teams to align design intent with real-world manufacturing capabilities and timelines.
 
 ---
 
@@ -96,22 +104,21 @@ Led critical materials engineering initiative to resolve structural deformation 
 
 > Explore detailed writeups, technical reports, and documentation for each of my engineering projects.
 
-### **Project 1: Polaris Flight - Custom 3-Axis Flight Control System**
-**Co-Founder & Mechanical Lead | September 2025 – Present**
+### **1. McGill Institute for Aerospace Engineering**
+**President | April 2025 – Present**
 
-- **Description:** Co-founded research group developing complete rocket system with 3-axis PID flight controller using servo-actuated control surfaces
-- **Skills Highlighted:** Aerodynamics, Control Systems, CAD Modeling, FEA, System Integration
-- **Key Results:** Designed complete airframe optimized for aerodynamic efficiency, structural integrity, and control authority
-- **Status:** Transitioning from design to fabrication phase
+- **Description:** Led the development of large-scale, industry-sponsored technical programs and experimental challenges in collaboration with Airbus, Bombardier, and Pratt & Whitney, creating applied aerospace engineering experiences focused on flight controls, aerodynamics, and aircraft systems for 800+ students. 
+- **Key Results:**
+  1. Designed and deployed a scaled fly-by-wire experimental challenge to replicate Airbus A220 flight control behavior using a table-top wind tunnel setup, enabling students to analyze control response, structural loading, and control surface effectiveness.
+  2. Developed a CFD-driven aerospace design challenge enabling students to perform aerodynamic optimization and performance analysis using Ansys tools, simulating real-world OEM aerodynamic workflows.
 - **Repository:** [View Project Details](_projects/polaris-flight.md)
 
 ---
 
-### **Project 2: Aerostructures Optimization & Team Leadership**
-**McGill Rocket Team - Aerostructures Subteam Lead | May 2025 – Present**
+### **2. Drone-Based Afforestation System**
+**Capstone Project, MECH 463D1 | Sept 2025 - April 2026**
 
-- **Description:** Leading 50-student team in aerospace structural component design and optimization using advanced topology optimization
-- **Skills Highlighted:** Topology Optimization, FEA, Team Leadership, Composites Manufacturing, Project Management
+- **Description:** Developed a UAV-based autonomous seed dispersal system with custom mechanical release, FEA-verified deployable arms, and embedded control for post-wildfire reforestation.
 - **Key Results:** Achieved 30% weight reduction while maintaining structural integrity using Siemens NX
 - **Status:** Ongoing leadership role with multiple concurrent projects
 - **Repository:** [View Project Details](_projects/aerostructures-leadership.md)
@@ -121,10 +128,9 @@ Led critical materials engineering initiative to resolve structural deformation 
 ### **Project 3: Auxiliary Transmission Gearbox for Small Aircraft**
 **MECH 393 Design 2 Project | January 2025 – April 2025**
 
-- **Description:** Preliminary design of double-branch, double-reduction gearbox transmitting 1,050 hp from turbine to propeller
-- **Skills Highlighted:** Gear Train Design (AGMA), Shaft & Bearing Sizing, Weight Optimization, SolidWorks Assembly
-- **Key Results:** Created 6-gear, 2-stage reduction system meeting 30,000h gear life and 10,000h bearing life standards
-- **Status:** Completed - 831 lb concept with full technical drawings
+- **Description:** Preliminary design of double-branch, double-reduction gearbox reducing 15,000 rpm turbine output to 1,000 rpm propeller speed.
+- **Key Results:** Full gearbox assembly designed to meet aerospace safety standards, 6-gear, 2-stage system
+- **Status:** Complete concept with full technical drawings
 - **Repository:** [View Project Details](_projects/aircraft-gearbox.md) | [Technical Report PDF](assets/pdf/Preliminary-Design-of-an-Auxiliary-Transmission-Box.pdf)
 
 ---
@@ -132,35 +138,52 @@ Led critical materials engineering initiative to resolve structural deformation 
 ### **Project 4: Structural Bracket Design & FEA Validation**
 **MECH 321 Project | January 2025 – April 2025**
 
-- **Description:** Laser-cut acrylic bracket optimized for 300 N stiffness at 0.7 mm deflection while minimizing weight
-- **Skills Highlighted:** Finite Element Analysis, Experimental Validation, Manufacturing Constraints, Acrylic Fabrication
-- **Key Results:** Achieved experimental load capacity of 633 N (double theoretical requirement) with 30% mass savings
+- **Description:** Designed and tested a laser-cut acrylic bracket to achieve target stiffness and strength while minimizing weight, validated through FEA and experimental testing.
+- **Key Results:** Achieved 417.61 N resistive load at 0.7 mm displacement, validated failure location at predicted high-stress pin, and maintained minimal weight; stiffness and strength targets met with conservative FEA design
 - **Status:** Completed with full design-test validation cycle
 - **Repository:** [View Project Details](_projects/structural-bracket.md) | [Technical Report PDF](assets/pdf/Design-and-Analysis-of-a-Structural-Bracket.pdf)
 
 ---
 
-### **Project 5: Motorcycle Safety Dashboard System**
+### **5. Amphibious Vehicle Mock-up**
+**MECH 290 Final Project | March - April 2023**
+
+- **Description:** Designed an amphibious vehicle capable of maneuvering on land and water. Key systems included four retractable motorized wheels, a retractable propeller, and a boat-like hull to minimize drag in water. CAD modeling, reverse engineering of wheels, and mechanical design considerations were used to optimize assembly and performance.
+- **Key Results:**
+  1. Successfully integrated retractable wheel and propeller systems with precise alignment and synchronized motion
+  2. Optimized parts for manufacturability and ease of assembly using snap fits, press fits, and standardized components from McMaster-Carr.
+  3. Developed full design documentation including CAD assemblies, engineering drawings, BOM, and a 2-minute video demonstrating functionality.
+- **Status:** Completed, full report and deliverables submitted
+- **Repository:** [View Project Details](_projects/motorcycle-dashboard.md) | [Design Report PDF](assets/pdf/Conceptual-design-report.pdf)
+
+---
+
+### **6. Autonomous Rover**
 **MECH 292 Conceptual Design Project | January 2025 – March 2025**
 
-- **Description:** Conceptual design of dashboard-mounted screen detecting road hazards in real-time with clear visual rider warnings
-- **Skills Highlighted:** Human-Factors Engineering, Sensor Integration, Safety Systems Design, Concept Evaluation
-- **Key Results:** Selected optimal concept through house-of-quality, morphological charts, and Pugh matrix analysis
-- **Status:** Completed concept stage with bill of materials and interface specifications
+- **Description:** Designed and built a wireless, Arduino-controlled rover capable of navigating a complex obstacle course while lifting a bar and accurately releasing a golf ball into a target.
+- **Key Results:** Rover successfully completed all tasks—driving, climbing ramp, lifting bar, and releasing golf ball with a mass of 650 g and cost under $100; iterative design improvements enhanced traction, maneuverability, and system reliability
+- **Status:** Completed with functional prototype, validated performance, and full documentation of design decisions
 - **Repository:** [View Project Details](_projects/motorcycle-dashboard.md) | [Design Report PDF](assets/pdf/Conceptual-design-report.pdf)
 
 ---
 
 ## Leadership & Team Experience
 
-**Aerostructures Subteam Lead** | McGill Rocket Team | *May 2025 – Present*
-- Leading team of ~50 students across multiple aerospace projects
-- Managing composites manufacturing, structural design, and aerodynamics initiatives
-- Coordinating with sponsors and maintaining industry partnerships
+**President** | McGill Institute for Aerospace Engineering (MIAE) | *May 2025 – Present*
+Led event organization with aerospace companies (Bombardier, P&WC, Airbus) to connect 200+ students with professionals through workshops and networking panels.
 
-**Aerostructures Project Lead** | McGill Rocket Team | *September 2023 – April 2025*
-- Directed 10-student team in aerospace structural component design
-- Led CAD and FEA analysis ensuring reliability under extreme forces
+**Aerostructures Composites Manufacturing Lead** | McGill Rocket Team | *September 2023 – July 2024*
+Directed team of 50+ people and oversaw composite manufacturing and advanced structural component design projects (details in portfolio projects section).
+
+**Aerostructures Testing Lead** | McGill Rocket Team | *September 2022 – August 2023*
+Conducted static & vibration tests and documented structural performance results to suggest improvements for validating part integrity and durability of the airframe before flight. 
+
+**Engineering Senator** | McGill Senate | *September 2023 – August 2024*
+Elected to represent the Engineering Faculty in McGill’s most important governing body for decision making; managed $450K budget allocation and improved student project funding oversight.
+
+**Student Ambassador** | International Development & Relief Foundation (IDRF) | *Jan 2023 – Present*
+Organized fundraising and community engagement events raising over $150K for humanitarian projects.
 
 ---
 
@@ -171,4 +194,4 @@ This portfolio showcases my journey from mechanical engineering fundamentals to 
 Built using modern web technologies for optimal performance and accessibility. Contributions and collaboration opportunities welcome!
 
 ---
-"Engineering is not just about solving problems — it’s about creating solutions that improve systems, processes, and people’s lives."
+"Engineering is not just about solving problems... it’s about creating solutions that improve systems, processes, and people’s lives."
