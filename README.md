@@ -118,8 +118,12 @@ Supported a community-driven product creation startup that transforms viral user
 ### **2. Drone-Based Afforestation System**
 **Capstone Project, MECH 463D1 | Sept 2025 - April 2026**
 
-- **Description:** Developed a UAV-based autonomous seed dispersal system with custom mechanical release, FEA-verified deployable arms, and embedded control for post-wildfire reforestation.
-- **Key Results:** Achieved 30% weight reduction while maintaining structural integrity using Siemens NX
+- **Description:** Designed and validated a modular UAV-mounted mechanical system for autonomous seed dispersal in post-wildfire and arid environments, enabling scalable reforestation through controlled aerial deployment.
+- **Key Results:**
+  1. Validated structural integrity of deployment arms with acceptable deflection and positive safety margins using Siemens FEA
+  2. Achieved controlled dispersal spacing of ~2.4 m per pod, enabling ~5,000+ m² coverage per flight
+  3. Delivered a fully integrated, test-ready mechanical system design suitable for prototype fabrication and flight integration
+  4. Demonstrated scalable mechanical architecture adaptable to multiple UAV platforms
 - **Status:** Ongoing leadership role with multiple concurrent projects
 - **Repository:** [View Project Details](_projects/aerostructures-leadership.md)
 
@@ -162,7 +166,7 @@ Supported a community-driven product creation startup that transforms viral user
 **MECH 292 Conceptual Design Project | January 2025 – March 2025**
 
 - **Description:** Designed and built a wireless, Arduino-controlled rover capable of navigating a complex obstacle course while lifting a bar and accurately releasing a golf ball into a target.
-- **Key Results:** Rover successfully completed all tasks—driving, climbing ramp, lifting bar, and releasing golf ball with a mass of 650 g and cost under $100; iterative design improvements enhanced traction, maneuverability, and system reliability
+- **Key Results:** Rover successfully completed all tasks: driving, climbing ramp, lifting bar, and releasing golf ball with a mass of 650 g and cost under $100; iterative design improvements enhanced traction, maneuverability, and system reliability
 - **Status:** Completed with functional prototype, validated performance, and full documentation of design decisions
 - **Repository:** [View Project Details](_projects/motorcycle-dashboard.md) | [Design Report PDF](assets/pdf/Conceptual-design-report.pdf)
 
