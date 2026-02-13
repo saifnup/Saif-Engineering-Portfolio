@@ -1,25 +1,21 @@
 ---
 layout: post
-title: "Drone Afforestation Rover System – Mechanical & Systems Lead"
-description: "Design and prototyping of a mechanically-actuated seed dispersal rover system for automated reforestation."
-timeline: "Sept 2025 – Dec 2025"
+title: "Automonous Rover"
+description: "Design and construction of a remote-controlled rover capable of transporting a golf ball through an obstacle course, lifting a bar, and releasing the ball into a target hole."
+timeline: "Jan 2025 – April 2025"
 ---
 
-Drone Afforestation Rover System was developed to demonstrate a low-cost, mechanically-driven seed dispersal platform for afforestation and environmental restoration. The system functioned as a tabletop rover platform to validate controlled, repeatable seed release without requiring full aerial flight.
-
-I led the mechanical design and system integration of the seed dispensing mechanism, rover structure, and hardware prototyping. The system used a rotating gumball-style dispenser driven by an Arduino-controlled motor to release seeds at defined intervals based on rover motion.
-
-This project emphasized rapid prototyping, mechanical reliability, and system-level integration between CAD, electronics, and software.
+The rover features a polycarbonate 3D-printed chassis with 20% infill, optimized for both weight and strength. Motion is provided via independent wheel drive using FS90R servos, with transfer bearings incorporated to reduce friction. The rover includes a servo-actuated ball release mechanism with an integrated ramp and gate, and a four-bar linkage bar lifting mechanism controlled by a separate servo. Wireless control is achieved using an Arduino Mega and Arduino Nano communicating via nRF24l01+ transceivers at 2.4 GHz, while onboard power is supplied by two 9 V batteries connected in parallel. The total project cost was kept under $120, with several pre-owned components helping reduce expenses.
 
 ### What I Learned
 
-- System-level mechanical design for mechatronic platforms  
-- Arduino-based motor control and timing logic  
-- Rapid prototyping using iterative 3D printing  
-- Designing mechanisms for granular material handling  
-- Integrating mechanical, electrical, and software subsystems  
-- Hardware validation and bench testing for functional reliability  
+- Effective integration of mechanical design, electrical control, and wireless communication.  
+- Optimizing traction and ground clearance improves rover performance over slopes and obstacles.  
+- Importance of iterative prototyping and testing to identify and resolve failure modes.  
+- Experience in CAD modeling, 3D printing, and servo-actuated mechanism design.  
+- Managing project cost and sourcing pre-owned components effectively.  
 
 ### CAD & System Images
 
-(Add images here when ready)
+<img width="609" height="458" alt="image" src="https://github.com/user-attachments/assets/6cf0042b-e5b9-4040-b808-47b74470f948" />
+
